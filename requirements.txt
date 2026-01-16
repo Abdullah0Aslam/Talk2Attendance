@@ -1,0 +1,11 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+sqlalchemy==2.0.23
+langchain==1.0.1
+langchain-community==0.3.31
+pydantic==2.12.3
+langchain-groq
+
+
+
+
