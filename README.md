@@ -25,7 +25,6 @@ Talk2Attendance combines a conversational chatbot with a lightweight attendance 
 
 ```bash
 git clone https://github.com/Abdullah0Aslam/Talk2Attendance.git
-cd Talk2Attendance
 ```
 
 2. Create a Python virtual environment and install dependencies:
